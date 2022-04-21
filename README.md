@@ -1,5 +1,5 @@
 
-[![Aleksander's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksanderobrestad)]
+[![Aleksander's GitHub stats]](https://github-readme-stats.vercel.app/api?username=aleksanderobrestad)
 
 
 <!--
