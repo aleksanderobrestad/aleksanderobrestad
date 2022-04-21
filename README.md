@@ -1,6 +1,5 @@
 
-![Aleksander's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksanderobrestad)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Aleksander's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksanderobrestad)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
